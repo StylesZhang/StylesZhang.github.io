@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <i>Like the wind.</i>
 
 profile:
   align: right
@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year PhD student in the [IDS](https://datascience.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Yanchao Yang](https://yanchaoyang.github.io/) and co-advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/). Undergraduate studies from [Zhejiang University](https://www.zju.edu.cn/english/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest lies in building embodied agents by learning from natural signals. I aim to create human-like intelligence while enhancing our understanding of human brains. I am also interested in neuroscience and cognitive science.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My recent research focus is 3D representation learning related to the manifold, namely, the perception side of agents.
