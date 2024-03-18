@@ -20,7 +20,14 @@
   
   - firstname: ["Yanchao"]
     url: https://yanchaoyang.github.io/
+    
+  - firstname: ["Carl"]
+    url: https://www.cs.emory.edu/~jyang71/
 
 "guibas":
   - firstname: ["Leonidas J", "Leonidas"]
     url: https://geometry.stanford.edu/member/guibas/
+
+"xu":
+  - firstname: ["Jiarong"]
+    url: https://galina0217.github.io/
