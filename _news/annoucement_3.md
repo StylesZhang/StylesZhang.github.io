@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 One paper is accepted to NAACL 2024: [Navigation as Attackers Wish? Towards Building Byzantine-Robust Embodied Agents under Federated Learning]([https://github.com/LuckyTiger123/GPF](https://styleszhang.github.io/pba/)https://styleszhang.github.io/pba/)
+🎉 One paper is accepted to NAACL 2024: [Navigation as Attackers Wish? Towards Building Byzantine-Robust Embodied Agents under Federated Learning](https://styleszhang.github.io/pba/)
