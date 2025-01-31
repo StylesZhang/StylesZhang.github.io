@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🎉 One paper is accepted to ICLR 2025: [Structure-Aware Gaussians through LightweightInformation Shaping](https://arxiv.org/abs/2406.05897)
+🎉 One paper is accepted to ICLR 2025: [Structure-Aware Gaussians through Lightweight Information Shaping](https://arxiv.org/abs/2406.05897)
 
